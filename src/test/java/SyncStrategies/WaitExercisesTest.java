@@ -22,7 +22,7 @@ public class WaitExercisesTest {
 
 
 
-//we can sync with the page ina  few different ways as follows:
+//we can sync with the page in a  few different ways as follows:
 
     //wait til the ajax element becomes invisible
 

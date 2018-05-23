@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise1Test.java" line="33" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cfc98267-7bb5-48f7-8392-bd56a0fd2eac" name="Default" comment="Revert &quot;Adding IE driver quick test and Sys properties experiments&quot;&#10;&#10;This reverts commit 963ec40694278d8c2b2ebc4814d5f1683a1e4c44.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/driver/manager/DriverManager.class" afterPath="$PROJECT_DIR$/target/classes/driver/manager/DriverManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/DriverManagerTests/NavigateUsingDriverManagerClassTest.class" afterPath="$PROJECT_DIR$/target/test-classes/DriverManagerTests/NavigateUsingDriverManagerClassTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/driver/manager/DriverManager.java" afterPath="$PROJECT_DIR$/src/main/java/driver/manager/DriverManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/DriverManagerTests/NavigateUsingDriverManagerClassTest.java" afterPath="$PROJECT_DIR$/src/test/java/DriverManagerTests/NavigateUsingDriverManagerClassTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SyncStrategies/WaitExercisesTest.java" afterPath="$PROJECT_DIR$/src/test/java/SyncStrategies/WaitExercisesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/workspace.xml" afterPath="$PROJECT_DIR$/target/classes/workspace.xml" />
     </list>
     <list id="e72b0c04-4115-4bb4-a28f-d0c2bbf984a9" name="Revert &quot;Adding IE driver quick test and Sys properties experiments&quot; This reverts commit 963ec40" comment="Revert &quot;Adding IE driver quick test and Sys properties experiments&quot;&#10;                           &#10;                           This reverts commit 963ec40" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,34 +22,7 @@
     <favorites_list name="WebDriverRobsCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NavigateUsingDriverManagerClassTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DriverManagerTests/NavigateUsingDriverManagerClassTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1916#1917#0" expanded="true" />
-                <element signature="e#1945#1946#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DriverManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/driver/manager/DriverManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,11 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/manipulation/ManipulationFirstExerciseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/manipulation/SubmitFormWithCheckBox1Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/manipulation/SubmitFormWithRadioButton2Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/manipulation/SubmitFormRadioButton1Selected.java" />
-        <option value="$PROJECT_DIR$/src/test/java/manipulation/SubmitFormCheckBox1Selected.java" />
         <option value="$PROJECT_DIR$/src/test/java/manipulation/ManipulationSubmitWithFileTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageMethods/PageElements.java" />
         <option value="$PROJECT_DIR$/src/main/java/PageMethods/PageElements.java" />
@@ -107,7 +76,6 @@
         <option value="$PROJECT_DIR$/src/test/java/Windows/WindowsExperimenting.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/Practice.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/ImplicitWait.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/WaitExercisesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/ExperimentWithExpectedConditionsClassTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/PageLoaded.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/OnlineCustomexpecteConditionTest.java" />
@@ -133,13 +101,14 @@
         <option value="$PROJECT_DIR$/src/test/java/navigation/IEDriverTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/driver/manager/DriverManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/DriverManagerTests/NavigateUsingDriverManagerClassTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise1Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SyncStrategies/WaitExercisesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Refactor/WaitExercisesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Refactor/pages/BasicAjaxPageObject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Refactor/pages/WaitExercisesRefactoredTest.java" />
       </list>
     </option>
-  </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="JUnit" name="NavigateUsingDriverManagerClassTest.canNavigateUsingChosenBrowser" />
-    </enabled-run-configurations>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -154,11 +123,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1358" />
-    <option name="y" value="72" />
-    <option name="width" value="1378" />
-    <option name="height" value="745" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1352" />
+    <option name="y" value="97" />
+    <option name="width" value="1456" />
+    <option name="height" value="884" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -175,44 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
-              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
-              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-            </path>
-            <path>
-              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
-              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
-              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="openqa.selenium" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
-              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-              <item name="org" type="1f31426a:PackageElementNode" />
-              <item name="openqa.selenium" type="1f31426a:PackageElementNode" />
-              <item name="remote" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,7 +196,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DriverManagerTests" type="462c0819:PsiDirectoryNode" />
+              <item name="Refactor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDriverRobsCode" type="b2602c69:ProjectViewProjectNode" />
@@ -273,7 +204,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="Refactor" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverRobsCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriverRobsCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SyncStrategies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDriverRobsCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDriverRobsCode" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,6 +235,44 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="webdriverbasics" type="cbb8eebc:String" user="webdriverbasics" />
               <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
+              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
+              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+            <path>
+              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
+              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="org" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
+              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="org" type="1f31426a:PackageElementNode" />
+              <item name="openqa.selenium" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="webdriverbasics" type="58d84e3e:PackageViewProjectNode" />
+              <item name="webdriverbasics" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="org" type="1f31426a:PackageElementNode" />
+              <item name="openqa.selenium" type="1f31426a:PackageElementNode" />
+              <item name="remote" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -313,14 +296,15 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Refactor" />
       <recent name="manipulation" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Refactor.pages" />
       <recent name="driver.manager" />
       <recent name="DriverManagerTests" />
       <recent name="" />
       <recent name="SyncStrategies" />
-      <recent name="PageMethods" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -335,20 +319,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NavigateUsingDriverManagerClassTest.createADefaultDriver">
-    <configuration name="IEDriverTest.canRunIEDriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ScreenShotExercise1Test.checkScreenShotUsingCast">
+    <configuration name="ScreenShotExercise1Test.checkScreeShotUsingCast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="navigation.*" />
+          <option name="PATTERN" value="ScreenShots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="webdriverbasicsMyCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="navigation" />
-      <option name="MAIN_CLASS_NAME" value="navigation.IEDriverTest" />
-      <option name="METHOD_NAME" value="canRunIEDriverTest" />
+      <option name="PACKAGE_NAME" value="ScreenShots" />
+      <option name="MAIN_CLASS_NAME" value="ScreenShots.ScreenShotExercise1Test" />
+      <option name="METHOD_NAME" value="checkScreeShotUsingCast" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -361,19 +345,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NavigateUsingDriverManagerClassTest.createADefaultDriver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCapabilities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DriverManagerTests.*" />
+          <option name="PATTERN" value="ScreenShots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="webdriverbasicsMyCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DriverManagerTests" />
-      <option name="MAIN_CLASS_NAME" value="DriverManagerTests.NavigateUsingDriverManagerClassTest" />
-      <option name="METHOD_NAME" value="createADefaultDriver" />
+      <option name="PACKAGE_NAME" value="ScreenShots" />
+      <option name="MAIN_CLASS_NAME" value="ScreenShots.ScreenShotExercise1Test" />
+      <option name="METHOD_NAME" value="checkScreenShotUsingCapabilities" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -386,19 +370,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DriverManagerTests.*" />
+          <option name="PATTERN" value="ScreenShots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="webdriverbasicsMyCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DriverManagerTests" />
-      <option name="MAIN_CLASS_NAME" value="DriverManagerTests.NavigateUsingDriverManagerClassTest" />
-      <option name="METHOD_NAME" value="createAFFDriver" />
+      <option name="PACKAGE_NAME" value="ScreenShots" />
+      <option name="MAIN_CLASS_NAME" value="ScreenShots.ScreenShotExercise1Test" />
+      <option name="METHOD_NAME" value="checkScreenShotUsingCast" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -411,19 +395,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NavigateUsingDriverManagerClassTest.createAnIeDricerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenShotExercise1Test.stopStart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DriverManagerTests.*" />
+          <option name="PATTERN" value="ScreenShots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="webdriverbasicsMyCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DriverManagerTests" />
-      <option name="MAIN_CLASS_NAME" value="DriverManagerTests.NavigateUsingDriverManagerClassTest" />
-      <option name="METHOD_NAME" value="createAnIeDricerTest" />
+      <option name="PACKAGE_NAME" value="ScreenShots" />
+      <option name="MAIN_CLASS_NAME" value="ScreenShots.ScreenShotExercise1Test" />
+      <option name="METHOD_NAME" value="stopStart" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -436,19 +420,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NavigateUsingDriverManagerClassTest.createAnIeDriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScreenShotExercise2Test.checkScreenShotAndSaveFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DriverManagerTests.*" />
+          <option name="PATTERN" value="ScreenShots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="webdriverbasicsMyCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="DriverManagerTests" />
-      <option name="MAIN_CLASS_NAME" value="DriverManagerTests.NavigateUsingDriverManagerClassTest" />
-      <option name="METHOD_NAME" value="createAnIeDriverTest" />
+      <option name="PACKAGE_NAME" value="ScreenShots" />
+      <option name="MAIN_CLASS_NAME" value="ScreenShots.ScreenShotExercise2Test" />
+      <option name="METHOD_NAME" value="checkScreenShotAndSaveFile" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -554,19 +538,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.IEDriverTest.canRunIEDriverTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createAnIeDricerTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createAnIeDriverTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createAFFDriver" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createADefaultDriver" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.checkScreeShotUsingCast" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.checkScreenShotUsingCapabilities" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise2Test.checkScreenShotAndSaveFile" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.stopStart" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.checkScreenShotUsingCast" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createADefaultDriver" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createAnIeDriverTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createAFFDriver" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NavigateUsingDriverManagerClassTest.createAnIeDricerTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.IEDriverTest.canRunIEDriverTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.checkScreenShotUsingCast" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.checkScreenShotUsingCapabilities" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise2Test.checkScreenShotAndSaveFile" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.stopStart" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ScreenShotExercise1Test.checkScreeShotUsingCast" />
       </list>
     </recent_temporary>
   </component>
@@ -609,67 +593,66 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NavigateUsingDriverManagerClassTest_createADefaultDriver - 2018.05.16 at 15h 40m 45s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createADefaultDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_checkScreenShotUsingCapabilities - 2018.05.21 at 15h 09m 31s.xml">
+      <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCapabilities" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 24m 16s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_checkScreenShotUsingCapabilities - 2018.05.21 at 15h 23m 49s.xml">
+      <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCapabilities" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 25m 00s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_checkScreenShotUsingCast - 2018.05.21 at 15h 45m 47s.xml">
+      <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 25m 33s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_checkScreenShotUsingCast - 2018.05.21 at 15h 46m 17s.xml">
+      <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 31m 13s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_checkScreenShotUsingCast - 2018.05.21 at 15h 46m 51s.xml">
+      <configuration name="ScreenShotExercise1Test.checkScreenShotUsingCast" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 43m 35s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_stopStart - 2018.05.21 at 15h 06m 51s.xml">
+      <configuration name="ScreenShotExercise1Test.stopStart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 45m 08s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise1Test_stopStart - 2018.05.21 at 15h 08m 49s.xml">
+      <configuration name="ScreenShotExercise1Test.stopStart" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 12h 46m 35s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise2Test_checkScreenShotAndSaveFile - 2018.05.21 at 15h 13m 15s.xml">
+      <configuration name="ScreenShotExercise2Test.checkScreenShotAndSaveFile" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAFFDriver - 2018.05.16 at 13h 10m 05s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAFFDriver" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise2Test_checkScreenShotAndSaveFile - 2018.05.21 at 15h 14m 10s.xml">
+      <configuration name="ScreenShotExercise2Test.checkScreenShotAndSaveFile" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NavigateUsingDriverManagerClassTest_createAnIeDriverTest - 2018.05.16 at 13h 12m 29s.xml">
-      <configuration name="NavigateUsingDriverManagerClassTest.createAnIeDriverTest" configurationId="JUnit" />
+    <history-entry file="ScreenShotExercise2Test_checkScreenShotAndSaveFile - 2018.05.21 at 15h 15m 05s.xml">
+      <configuration name="ScreenShotExercise2Test.checkScreenShotAndSaveFile" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="72" width="1456" height="916" extended-state="7" />
-    <editor active="true" />
+    <frame x="1352" y="97" width="1456" height="884" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717678" sideWeight="0.49713466" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29419526" sideWeight="0.5114613" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22691293" sideWeight="0.5057307" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22691293" sideWeight="0.48853868" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22691293" sideWeight="0.48567334" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32378224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30873924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3443526" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26912928" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26781002" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717678" sideWeight="0.49426934" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="-750" y="310" width="604" height="369" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -677,7 +660,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29419526" sideWeight="0.5114613" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22691293" sideWeight="0.5057307" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -685,18 +668,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26912928" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26781002" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717678" sideWeight="0.49713466" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717678" sideWeight="0.49426934" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="-750" y="310" width="604" height="369" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29419526" sideWeight="0.48853868" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22691293" sideWeight="0.48567334" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3239757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30873924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -769,56 +752,70 @@
           <properties />
           <option name="timeStamp" value="392" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise1Test.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise1Test.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise1Test.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="408" />
+      <option name="time" value="418" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0-sources.jar!/com/google/common/collect/Maps.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0-sources.jar!/com/google/common/collect/ImmutableMap.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.5.3/selenium-remote-driver-3.5.3-sources.jar!/org/openqa/selenium/remote/Command.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.5.3/selenium-remote-driver-3.5.3-sources.jar!/org/openqa/selenium/remote/Response.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/PageLoaded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/TitleDoesNotContain.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.5.3/selenium-support-3.5.3-sources.jar!/org/openqa/selenium/support/ui/FluentWait.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/WaitExercisesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1651">
-          <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/ExperimentWithExpectedConditionsClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/CustomInlineWaitExcersicesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2822">
-          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/lang/String.class" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/OnlineCustomexpecteConditionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.5.3/selenium-api-3.5.3-sources.jar!/org/openqa/selenium/Cookie.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.5.3/selenium-api-3.5.3-sources.jar!/org/openqa/selenium/WebDriver.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.5.3/selenium-remote-driver-3.5.3-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java" />
@@ -827,13 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/FluentWaitExerciseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -877,13 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/CustomWaitExcersicesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -951,9 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -961,9 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -971,29 +948,128 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ScreenShots/ScreenShotExercise1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/driver/manager/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="187">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DriverManagerTests/NavigateUsingDriverManagerClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/ExperimentWithExpectedConditionsClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="53" column="16" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/OnlineCustomexpecteConditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/WaitExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/FluentWaitExerciseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Refactor/pages/BasicAjaxPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="38" column="60" lean-forward="true" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Refactor/pages/WaitExercisesRefactoredTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="134" column="5" lean-forward="false" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1916#1917#0" expanded="true" />
-            <element signature="e#1945#1946#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Refactor/WaitExercisesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="132" column="0" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="137" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/FeelThePainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/CustomWaitExcersicesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SyncStrategies/CustomInlineWaitExcersicesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
