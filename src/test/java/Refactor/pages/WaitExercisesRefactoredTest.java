@@ -1,5 +1,6 @@
 package Refactor.pages;
 
+import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -16,6 +17,7 @@ public class WaitExercisesRefactoredTest {
 
 
     private WebDriver driver = new ChromeDriver();
+    private BasicAjaxPageObject basicAjaxPage;
 
 
 
@@ -24,15 +26,20 @@ public class WaitExercisesRefactoredTest {
 
 //keep this page as is and use it for reference, the refactored code can be seen in the pages package
 
+
+
+    @Before
+    public void setupTest(){
+
+       basicAjaxPage = new BasicAjaxPageObject(driver);
+       basicAjaxPage.get();
+    }
+
     @Test
 
     public void checkServer()  {
-        driver.get("http://compendiumdev.co.uk/selenium/" +
-                "basic_ajax.html");
 
-        // select Server
-        WebElement categorySelect = driver.findElement(By.id("combo1"));
-        categorySelect.findElement(By.cssSelector("option[value='3']")).click();
+        basicAjaxPage.categorySelect(3);
 
 
         // then select Java
@@ -48,10 +55,11 @@ public class WaitExercisesRefactoredTest {
 
     @Test
     public void chooseJavaAfterAjaxComboDissapears(){
-        startBrowserAndSelectServer();
-        // wait til ajax busy becomes invisible
-        new WebDriverWait(driver,10).until(
-                ExpectedConditions.invisibilityOfElementLocated(By.id("ajaxBusy")));
+
+        basicAjaxPage.categorySelect(3);
+
+
+
         //select Java then click submit
         selectJavaSubmitFormAndCheckResult();
     }
@@ -62,12 +70,9 @@ public class WaitExercisesRefactoredTest {
     @Test
     public void createInLineWaitUntilJavaOptionLocated(){
 
-        startBrowserAndSelectServer();
+        basicAjaxPage.categorySelect(3);
 
-        //wait til java option is selectable
-        new WebDriverWait(driver,10).until(
-                ExpectedConditions.presenceOfElementLocated
-                        (By.cssSelector("option[value='23']")));
+
         // select java and submit
         selectJavaSubmitFormAndCheckResult();
     }
@@ -76,12 +81,10 @@ public class WaitExercisesRefactoredTest {
     @Test
     public void createInLineWaitUntilJavaOptionVisible(){
 
-        startBrowserAndSelectServer();
+        basicAjaxPage.categorySelect(3);
 
-        //wait til java option is selectable
-        new WebDriverWait(driver,10).until(
-                ExpectedConditions.visibilityOfElementLocated
-                        (By.cssSelector("option[value='23']")));
+
+
         // select java and submit
         selectJavaSubmitFormAndCheckResult();
     }
@@ -91,13 +94,11 @@ public class WaitExercisesRefactoredTest {
     @Test
 
     public void waitUntilJavaElementIsClickable(){
-        startBrowserAndSelectServer();
 
-        //wait tin the java element is clickable
+        basicAjaxPage.categorySelect(3);
 
-        new WebDriverWait(driver,10).until(
-                ExpectedConditions.elementToBeClickable(By.cssSelector("option[value='23']")));
-        //select java and submit
+
+
         selectJavaSubmitFormAndCheckResult();
 
     }
@@ -108,23 +109,18 @@ public class WaitExercisesRefactoredTest {
 
     // helper methods:
 
-    public void startBrowserAndSelectServer() {
-        driver.get("http://compendiumdev.co.uk/selenium/" +
-                "basic_ajax.html");
-
-        // select Server
-        WebElement categorySelect = driver.findElement(By.id("combo1"));
-        categorySelect.findElement(By.cssSelector("option[value='3']")).click();
-    }
-
     private void selectJavaSubmitFormAndCheckResult() {
-        // then select Java
-        WebElement languageSelect = driver.findElement(By.id("combo2"));
-        languageSelect.findElement(By.cssSelector("option[value='23']")).click();
 
-        // Submit the form
-        WebElement codeInIt = driver.findElement(By.name("submitbutton"));
-        codeInIt.click();
+        basicAjaxPage.selectLanguage(23);
+
+
+        basicAjaxPage.clickCodeInIt();
+
+
+ ProcessedFormDetails.processedFormDetails.waitUntilfomDetsilsPageIsLoaded();
+
+        
+
 
         new WebDriverWait(driver,10).until(ExpectedConditions.titleIs("Processed Form Details"));
 
